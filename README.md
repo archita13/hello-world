@@ -4,4 +4,4 @@ hello-world
 A step towards learning Github
 
 
-Like most hello-world programs are associated with marking the start of learning a new technology, this repository is meant for marking the start of understanding Github and exploring it to the core.
+Like most hello-world programs , this repository is meant to mark the starting of understanding Github and exploring it to the core.
